@@ -322,8 +322,8 @@
   },
   "notes":"The standard HTTP header is `Content-Security-Policy` which is used unless otherwise noted.",
   "notes_by_num":{
-    "1":"Supported through the `X-Content-Security-Policy` header",
-    "2":"Supported through the `X-WebKit-CSP` header"
+    "1":"Partial support of only `sandbox` directive through the `X-Content-Security-Policy` header",
+    "2":"Depricated support through the `X-WebKit-CSP` header"
   },
   "usage_perc_y":91.48,
   "usage_perc_a":3.18,
